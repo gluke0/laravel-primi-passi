@@ -47,6 +47,7 @@
                 <li> chiudere VSC e aprire progetto dalla propria cartella </li>
                 <li> cd /Users/gianluca/Desktop/coding/Laravel/nome-della-repo </li>
                 <li> php artisan serve o php -S localhost:8000 -t public</li>
+                <li> ctrl + c per chiudere server </li>
             </ul>
         </div>
 
